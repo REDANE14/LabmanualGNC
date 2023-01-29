@@ -1,0 +1,13 @@
+ ACT 1 <br>
+    Label the components of a computer.<br>
+    <img src="computer.png">
+   ACT 2 <br>
+   Find out how many watts each component of a computer uses.<br>
+   <br> 
+   <br>
+   asdACT 2 <br>
+   Find out how many watts each component of a computer uses.<br>
+   ACT 3<br>
+   Kindly label the connectors and ports of motherboard.<br>
+   ACT 4<br>
+   Identify what is the Network Address, Host Address and Broadcast Address of 10.0.0.0/8.<br>
